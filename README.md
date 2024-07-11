@@ -1,0 +1,1 @@
+# Emotional-Analysis-integrated-with-OpenAI-using-Langchain
